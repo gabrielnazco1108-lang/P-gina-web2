@@ -1,0 +1,6 @@
+{
+  "name": "InduTrust: B2B Industrial Marketplace Blueprint",
+  "description": "Interactive software architecture portal and simulator for a secure B2B heavy machinery marketplace, featuring KYB onboarding, secure escrow flow, industrial cataloging, and reputation/dispute management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
